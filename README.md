@@ -33,7 +33,7 @@ Data Visualization techniques in Excel
 
 📸 Dashboard Preview
 
-(Insert a screenshot of your dashboard here for better presentation)
+[Dashboard](https://github.com/user-attachments/assets/50dca9e3-7fc6-41e4-85d2-10898544ae51)
 
 🔑 Key Learnings
 
