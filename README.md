@@ -1,4 +1,4 @@
-📊 Swiggy Data Dashboard (Excel Project)
+##📊 Swiggy Data Dashboard (Excel Project)
 📝 Overview
 
 This project showcases an interactive Excel dashboard built from Swiggy’s JSON data. The goal of this project is to transform raw JSON data into structured, meaningful insights and present them in a clean, visual format that highlights trends, customer behavior, and restaurant performance.
